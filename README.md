@@ -22,7 +22,7 @@ SECRET_ACCESS_KEY=<!--ENTER AWS SECRET KEY HERE-->
 
 
 ```jupyter notebook
-Capstone Project Template.ipynb
+open on Jupyter "Capstone Project Template.ipynb"
 ```
 
 ## Contributing
